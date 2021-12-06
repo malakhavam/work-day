@@ -21,7 +21,5 @@ $(".saveBtn").click(function () {
 //Get input from local storage through loop 
 var time = [8, 9, 10, 11, 12, 1, 2, 3, 4, 5];
 for (var i = 0; i < time.length; i++) {
-    var dataHour = localStorage.getItem(time[i]);
-    
-    $(".form" + time[i]).val(dataHour);
+    $(".form" + time[i]).val(localStorage.getItem(time[i]));
 }
