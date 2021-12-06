@@ -14,5 +14,5 @@ https://malakhavam.github.io/working-day/
 
 ## Screenshot
 
-![Mockup-image](images/malakhavam.github.io_working-day_.png)
+![Mockup-image](develop/images/malakhavam.github.io_working-day_.png)
 
