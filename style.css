@@ -78,3 +78,8 @@ ul li {
   list-style-type: none;
   margin-bottom: 10px;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
